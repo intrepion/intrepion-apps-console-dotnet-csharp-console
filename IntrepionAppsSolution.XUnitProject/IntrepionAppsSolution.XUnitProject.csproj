@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\IntrepionAppsSolution.ClassLibProject\IntrepionAppsSolution.ClassLibProject.csproj" />
+    <ProjectReference Include="..\IntrepionAppsSolution.ConsoleProject\IntrepionAppsSolution.ConsoleProject.csproj" />
   </ItemGroup>
 
 </Project>
