@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntrepionAppsSolution.Class
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntrepionAppsSolution.ConsoleProject", "IntrepionAppsSolution.ConsoleProject\IntrepionAppsSolution.ConsoleProject.csproj", "{0FCFF4C2-7F40-49B4-A875-D986D4FEE8FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntrepionAppsSolution.XUnitProject", "IntrepionAppsSolution.XUnitProject\IntrepionAppsSolution.XUnitProject.csproj", "{F3DF7084-DC7D-4542-A1B8-2F83D3483C73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{0FCFF4C2-7F40-49B4-A875-D986D4FEE8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FCFF4C2-7F40-49B4-A875-D986D4FEE8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FCFF4C2-7F40-49B4-A875-D986D4FEE8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3DF7084-DC7D-4542-A1B8-2F83D3483C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DF7084-DC7D-4542-A1B8-2F83D3483C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DF7084-DC7D-4542-A1B8-2F83D3483C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DF7084-DC7D-4542-A1B8-2F83D3483C73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
